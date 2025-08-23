@@ -1,0 +1,12 @@
+{
+    "name": "com.freakshowstudio.ucb-buildnumber",
+    "displayName": "UCB Build Number",
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "description": "Automatically set build number for UCB builds",
+    "keywords": ["build", "number", "bundle", "version"],
+    "category": "Scripting",
+    "dependencies": {
+      "com.freakshowstudio.ucb-environment": "1.x"
+    }
+}

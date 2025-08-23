@@ -1,0 +1,10 @@
+{
+    "name": "UcbBuildNumber.Editor",
+    "rootNamespace": "UcbBuildNumber",
+    "references": [
+      "UcbEnvironment.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
