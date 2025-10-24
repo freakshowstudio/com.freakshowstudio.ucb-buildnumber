@@ -1,7 +1,7 @@
 {
     "name": "com.freakshowstudio.ucb-buildnumber",
     "displayName": "UCB Build Number",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "6000.0",
     "description": "Automatically set build number for UCB builds",
     "keywords": [
@@ -15,12 +15,12 @@
         "com.freakshowstudio.ucb-environment": "1.x"
     },
     "author": {
-      "name": "Freakshow Studio AS",
-      "url": "https://github.com/freakshowstudio"
+        "name": "Freakshow Studio AS",
+        "url": "https://github.com/freakshowstudio"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/freakshowstudio/com.freakshowstudio.ucb-buildnumber"
+        "type": "git",
+        "url": "https://github.com/freakshowstudio/com.freakshowstudio.ucb-buildnumber"
     },
     "license": "MIT"
 }
