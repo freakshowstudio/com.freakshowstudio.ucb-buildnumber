@@ -1,8 +1,8 @@
 {
-    "name": "UcbBuildNumber.Editor",
+    "name": "FreakshowStudio.UcbBuildNumber.Editor",
     "rootNamespace": "UcbBuildNumber",
     "references": [
-      "UcbEnvironment.Editor"
+      "FreakshowStudio.UcbEnvironment.Editor"
     ],
     "includePlatforms": [
         "Editor"

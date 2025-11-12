@@ -1,12 +1,12 @@
 ﻿
-using UcbEnvironment.Editor;
+using FreakshowStudio.UcbEnvironment.Editor;
 using UnityEditor;
 using UnityEditor.Build;
 using UnityEditor.Build.Reporting;
 using UnityEngine;
 
 
-namespace UcbBuildNumber.Editor
+namespace FreakshowStudio.UcbBuildNumber.Editor
 {
     internal sealed class SetBuildNumber : IPreprocessBuildWithReport
     {
