@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/freakshowstudio/com.freakshowstudio.ucb-buildnumber/compare/v1.0.1...v2.0.0) (2025-11-12)
+
+
+### Bug Fixes
+
+* Add company name to assembly ([bc477b4](https://github.com/freakshowstudio/com.freakshowstudio.ucb-buildnumber/commit/bc477b4a80c1ae006adbcacce9dffdc7e35f78f7))
+
+
+### BREAKING CHANGES
+
+* Changes the assembly, and thus the import, name.
+Update imports to reflect the new name.
+
 ## [1.0.1](https://github.com/freakshowstudio/com.freakshowstudio.ucb-buildnumber/compare/v1.0.0...v1.0.1) (2025-10-24)
 
 
